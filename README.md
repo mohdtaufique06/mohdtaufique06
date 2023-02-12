@@ -1,3 +1,5 @@
+![logo](https://github.com/mohdtaufique06/mohdtaufique06/blob/main/ban1.png)
+
 - 👋 Hi, I’m Mohd Taufique
 - 👀 I’m interested in Data Analytics, Machine learning & Deep Learning.
 - 🌱 I’m currently learning tools to become Data Scientist.
